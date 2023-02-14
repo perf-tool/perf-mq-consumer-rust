@@ -24,7 +24,7 @@ edition = "2021"
 
 [dependencies]
 futures = "0.3"
-pulsar = "4.1"
+pulsar = "5.1"
 tokio = { version = "1.25.0", features = ["full"] }
 serde = { version = "1.0.152", features = ["derive"] }
 serde-env = "0.1.1"
